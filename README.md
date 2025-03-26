@@ -6,9 +6,10 @@ This project simulates the different functionalities that an urban bike manageme
    ```bash
    ./make
    
-2. Execute the program:  
-2.1. Option 1: Execute with own input  
-   <code>./program.exe</code>  
+2. Execute the program:
+2.1. Option 1: Execute with own input
+   ```bash
+   ./program.exe
      
 2.2. Option 2: Execute with sample given input  
    <code>./program.exe < sample_input.txt</code>  
