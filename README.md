@@ -3,7 +3,7 @@ This project simulates the different functionalities that an urban bike manageme
 **Usage**  
 1. Compile using Makefile  
    <code>./make</code>
-2. Execute the program:
+2. Execute the program:  
 2.1. Option 1: Execute with own input  
    <code>./program.exe</code>  
 2.2. Option 2: Execute with sample given input  
